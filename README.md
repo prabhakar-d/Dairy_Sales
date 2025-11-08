@@ -77,5 +77,5 @@ Purpose: Breaks down revenue contribution by product.
 Insight: Helps prioritize high-revenue items like Cheese and Butter for marketing and distribution.   
 
 6. Screenshot
- ![image alt](https://github.com/prabhakar-d/Dairy_Sales/blob/3de774bad084a44beb7493da135f76d80d9a677d/Dairy_Sales_Outlook.png))
+ ![image alt](https://github.com/prabhakar-d/Dairy_Sales/blob/3de774bad084a44beb7493da135f76d80d9a677d/Dairy_Sales_Outlook.png)
    
